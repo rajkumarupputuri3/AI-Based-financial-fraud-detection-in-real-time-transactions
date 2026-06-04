@@ -151,26 +151,47 @@ Financial Institutions
 
 
 AI-Based-financial-fraud-detection/
+
 │
+
 ├── README.md
+
 ├── LICENSE
+
 ├── requirements.txt
+
 │
+
 ├── dataset/
+
 │
+
 ├── source_code/
+
 │   ├── train.py
+
 │   ├── predict.py
+
 │
+
 ├── notebooks/
+
 │   └── fraud_detection.ipynb
+
 │
+
 ├── screenshots/
+
 │
+
 ├── report/
+
 │   └── Final_Project_Report.pdf
+
 │
+
 └── presentation/
+
     └── Project_PPT.pptx
 
 
