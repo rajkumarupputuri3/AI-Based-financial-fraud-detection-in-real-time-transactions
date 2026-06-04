@@ -1,0 +1,2 @@
+# AI-Based-financial-fraud-detection-in-real-time-transactions
+AI-Based Financial Fraud Detection in Real-Time Transactions uses Machine Learning to analyze transaction patterns and identify fraudulent activities. The system enhances digital payment security through intelligent classification, real-time monitoring, and predictive analytics, helping reduce financial losses and improve fraud prevention.
